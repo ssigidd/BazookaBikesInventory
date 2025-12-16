@@ -1,0 +1,17 @@
+
+--- Agent Restart Information ---
+
+**Current Status:** Resuming work on the BAZOOKA Android project.
+
+**Project Details (as confirmed by user):**
+- Project Name: BAZOOKA
+- Package Name: com.bazooka.inventory
+- Save Location: /Users/ssidd/Documents/BAZOOKAbikes (This is the new project root.)
+
+**Last Completed Task:** Initialized a new Android Studio project.
+
+**Next Task (in_progress):** Define data models (Entities) for BikePart and Project.
+
+**Technologies in use:** Kotlin, Jetpack Compose, Room, Hilt.
+
+Please verify the current working directory upon restart to ensure it's the BAZOOKA project root, and then proceed with adding Room dependencies and defining the data classes.
